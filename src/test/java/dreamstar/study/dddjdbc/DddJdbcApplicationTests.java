@@ -20,9 +20,9 @@ class DddJdbcApplicationTests {
         Optional<Area> byId = areaRepository.findById(0L);
         byId.ifPresent(area -> areaRepository.save(area));
         areaRepository.findById(0L).ifPresent(area -> {
-//            这个应该是对的
+//            This should be right
 //            Assert.isTrue(3441 == area.noNullCount(), "error");
-//            这个应该是错的
+//            This should be wrong
             Assert.isTrue(32 == area.noNullCount(), "error");
 /*            try {
                 System.out.println(new ObjectMapper().writeValueAsString(area));

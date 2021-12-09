@@ -1,0 +1,1628 @@
+{
+  "id": 37,
+  "areaName": "河北省",
+  "parentId": 0,
+  "childAreas": [
+    {
+      "id": 38,
+      "areaName": "石家庄市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 39,
+          "areaName": "长安区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 40,
+          "areaName": "桥西区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 41,
+          "areaName": "新华区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 42,
+          "areaName": "井陉矿区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 43,
+          "areaName": "裕华区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 44,
+          "areaName": "藁城区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 45,
+          "areaName": "鹿泉区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 46,
+          "areaName": "栾城区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 47,
+          "areaName": "井陉县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 48,
+          "areaName": "正定县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 49,
+          "areaName": "行唐县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 50,
+          "areaName": "灵寿县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 51,
+          "areaName": "高邑县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 52,
+          "areaName": "深泽县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 53,
+          "areaName": "赞皇县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 54,
+          "areaName": "无极县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 55,
+          "areaName": "平山县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 56,
+          "areaName": "元氏县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 57,
+          "areaName": "赵县",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 58,
+          "areaName": "石家庄高新技术产业开发区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 59,
+          "areaName": "石家庄循环化工园区",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 60,
+          "areaName": "辛集市",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 61,
+          "areaName": "晋州市",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 62,
+          "areaName": "新乐市",
+          "parentId": 38,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 24,
+      "selected": false
+    },
+    {
+      "id": 63,
+      "areaName": "唐山市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 64,
+          "areaName": "路南区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 65,
+          "areaName": "路北区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 66,
+          "areaName": "古冶区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 67,
+          "areaName": "开平区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 68,
+          "areaName": "丰南区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 69,
+          "areaName": "丰润区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 70,
+          "areaName": "曹妃甸区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 71,
+          "areaName": "滦南县",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 72,
+          "areaName": "乐亭县",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 73,
+          "areaName": "迁西县",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 74,
+          "areaName": "玉田县",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 75,
+          "areaName": "河北唐山芦台经济开发区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 76,
+          "areaName": "唐山市汉沽管理区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 77,
+          "areaName": "唐山高新技术产业开发区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 78,
+          "areaName": "河北唐山海港经济开发区",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 79,
+          "areaName": "遵化市",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 80,
+          "areaName": "迁安市",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 81,
+          "areaName": "滦州市",
+          "parentId": 63,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 18,
+      "selected": false
+    },
+    {
+      "id": 82,
+      "areaName": "秦皇岛市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 83,
+          "areaName": "海港区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 84,
+          "areaName": "山海关区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 85,
+          "areaName": "北戴河区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 86,
+          "areaName": "抚宁区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 87,
+          "areaName": "青龙满族自治县",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 88,
+          "areaName": "昌黎县",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 89,
+          "areaName": "卢龙县",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 90,
+          "areaName": "秦皇岛市经济技术开发区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 91,
+          "areaName": "北戴河新区",
+          "parentId": 82,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 9,
+      "selected": false
+    },
+    {
+      "id": 92,
+      "areaName": "邯郸市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 93,
+          "areaName": "邯山区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 94,
+          "areaName": "丛台区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 95,
+          "areaName": "复兴区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 96,
+          "areaName": "峰峰矿区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 97,
+          "areaName": "肥乡区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 98,
+          "areaName": "永年区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 99,
+          "areaName": "临漳县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 100,
+          "areaName": "成安县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 101,
+          "areaName": "大名县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 102,
+          "areaName": "涉县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 103,
+          "areaName": "磁县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 104,
+          "areaName": "邱县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 105,
+          "areaName": "鸡泽县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 106,
+          "areaName": "广平县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 107,
+          "areaName": "馆陶县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 108,
+          "areaName": "魏县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 109,
+          "areaName": "曲周县",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 110,
+          "areaName": "邯郸经济技术开发区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 111,
+          "areaName": "邯郸冀南新区",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 112,
+          "areaName": "武安市",
+          "parentId": 92,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 20,
+      "selected": false
+    },
+    {
+      "id": 113,
+      "areaName": "邢台市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 114,
+          "areaName": "襄都区",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 115,
+          "areaName": "信都区",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 116,
+          "areaName": "任泽区",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 117,
+          "areaName": "南和区",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 118,
+          "areaName": "临城县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 119,
+          "areaName": "内丘县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 120,
+          "areaName": "柏乡县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 121,
+          "areaName": "隆尧县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 122,
+          "areaName": "宁晋县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 123,
+          "areaName": "巨鹿县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 124,
+          "areaName": "新河县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 125,
+          "areaName": "广宗县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 126,
+          "areaName": "平乡县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 127,
+          "areaName": "威县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 128,
+          "areaName": "清河县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 129,
+          "areaName": "临西县",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 130,
+          "areaName": "河北邢台经济开发区",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 131,
+          "areaName": "南宫市",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 132,
+          "areaName": "沙河市",
+          "parentId": 113,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 19,
+      "selected": false
+    },
+    {
+      "id": 133,
+      "areaName": "保定市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 134,
+          "areaName": "竞秀区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 135,
+          "areaName": "莲池区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 136,
+          "areaName": "满城区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 137,
+          "areaName": "清苑区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 138,
+          "areaName": "徐水区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 139,
+          "areaName": "涞水县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 140,
+          "areaName": "阜平县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 141,
+          "areaName": "定兴县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 142,
+          "areaName": "唐县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 143,
+          "areaName": "高阳县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 144,
+          "areaName": "容城县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 145,
+          "areaName": "涞源县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 146,
+          "areaName": "望都县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 147,
+          "areaName": "安新县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 148,
+          "areaName": "易县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 149,
+          "areaName": "曲阳县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 150,
+          "areaName": "蠡县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 151,
+          "areaName": "顺平县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 152,
+          "areaName": "博野县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 153,
+          "areaName": "雄县",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 154,
+          "areaName": "保定高新技术产业开发区",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 155,
+          "areaName": "保定白沟新城",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 156,
+          "areaName": "涿州市",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 157,
+          "areaName": "定州市",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 158,
+          "areaName": "安国市",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 159,
+          "areaName": "高碑店市",
+          "parentId": 133,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 26,
+      "selected": false
+    },
+    {
+      "id": 160,
+      "areaName": "张家口市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 161,
+          "areaName": "桥东区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 162,
+          "areaName": "桥西区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 163,
+          "areaName": "宣化区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 164,
+          "areaName": "下花园区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 165,
+          "areaName": "万全区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 166,
+          "areaName": "崇礼区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 167,
+          "areaName": "张北县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 168,
+          "areaName": "康保县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 169,
+          "areaName": "沽源县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 170,
+          "areaName": "尚义县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 171,
+          "areaName": "蔚县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 172,
+          "areaName": "阳原县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 173,
+          "areaName": "怀安县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 174,
+          "areaName": "怀来县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 175,
+          "areaName": "涿鹿县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 176,
+          "areaName": "赤城县",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 177,
+          "areaName": "张家口经济开发区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 178,
+          "areaName": "张家口市察北管理区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 179,
+          "areaName": "张家口市塞北管理区",
+          "parentId": 160,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 19,
+      "selected": false
+    },
+    {
+      "id": 180,
+      "areaName": "承德市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 181,
+          "areaName": "双桥区",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 182,
+          "areaName": "双滦区",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 183,
+          "areaName": "鹰手营子矿区",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 184,
+          "areaName": "承德县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 185,
+          "areaName": "兴隆县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 186,
+          "areaName": "滦平县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 187,
+          "areaName": "隆化县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 188,
+          "areaName": "丰宁满族自治县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 189,
+          "areaName": "宽城满族自治县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 190,
+          "areaName": "围场满族蒙古族自治县",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 191,
+          "areaName": "承德高新技术产业开发区",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 192,
+          "areaName": "平泉市",
+          "parentId": 180,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 12,
+      "selected": false
+    },
+    {
+      "id": 193,
+      "areaName": "沧州市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 194,
+          "areaName": "新华区",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 195,
+          "areaName": "运河区",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 196,
+          "areaName": "沧县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 197,
+          "areaName": "青县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 198,
+          "areaName": "东光县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 199,
+          "areaName": "海兴县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 200,
+          "areaName": "盐山县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 201,
+          "areaName": "肃宁县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 202,
+          "areaName": "南皮县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 203,
+          "areaName": "吴桥县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 204,
+          "areaName": "献县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 205,
+          "areaName": "孟村回族自治县",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 206,
+          "areaName": "河北沧州经济开发区",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 207,
+          "areaName": "沧州高新技术产业开发区",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 208,
+          "areaName": "沧州渤海新区",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 209,
+          "areaName": "泊头市",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 210,
+          "areaName": "任丘市",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 211,
+          "areaName": "黄骅市",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 212,
+          "areaName": "河间市",
+          "parentId": 193,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 19,
+      "selected": false
+    },
+    {
+      "id": 213,
+      "areaName": "廊坊市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 214,
+          "areaName": "安次区",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 215,
+          "areaName": "广阳区",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 216,
+          "areaName": "固安县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 217,
+          "areaName": "永清县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 218,
+          "areaName": "香河县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 219,
+          "areaName": "大城县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 220,
+          "areaName": "文安县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 221,
+          "areaName": "大厂回族自治县",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 222,
+          "areaName": "廊坊经济技术开发区",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 223,
+          "areaName": "霸州市",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 224,
+          "areaName": "三河市",
+          "parentId": 213,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 11,
+      "selected": false
+    },
+    {
+      "id": 225,
+      "areaName": "衡水市",
+      "parentId": 37,
+      "childAreas": [
+        {
+          "id": 226,
+          "areaName": "桃城区",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 227,
+          "areaName": "冀州区",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 228,
+          "areaName": "枣强县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 229,
+          "areaName": "武邑县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 230,
+          "areaName": "武强县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 231,
+          "areaName": "饶阳县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 232,
+          "areaName": "安平县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 233,
+          "areaName": "故城县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 234,
+          "areaName": "景县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 235,
+          "areaName": "阜城县",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 236,
+          "areaName": "河北衡水高新技术产业开发区",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 237,
+          "areaName": "衡水滨湖新区",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        },
+        {
+          "id": 238,
+          "areaName": "深州市",
+          "parentId": 225,
+          "childAreas": [],
+          "count": 0,
+          "selected": false
+        }
+      ],
+      "count": 13,
+      "selected": false
+    }
+  ],
+  "count": 11,
+  "selected": false
+}

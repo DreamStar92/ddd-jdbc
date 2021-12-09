@@ -16,7 +16,6 @@ import java.util.Set;
 
 @Value
 @Table("zyy_area")
-
 public class Area {
 
     @Id
